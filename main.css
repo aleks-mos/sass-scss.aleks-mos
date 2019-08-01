@@ -1,0 +1,27 @@
+h1 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Roboto";
+  src: url("../fonts/Roboto-Regular-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+body {
+  background: #eee;
+}
+
+.calendar {
+  display: grid;
+  grid-template-columns: repeat(7, 100px);
+  grid-template-rows: repeat(5, 100px);
+  grid-column-gap: 1px;
+  grid-row-gap: 1px;
+}
+.calendar div {
+  border: 1px solid black;
+}
+
+/*# sourceMappingURL=main.css.map */
