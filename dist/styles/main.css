@@ -40,13 +40,16 @@ body {
         .calendar div:hover .cell .cell-1 {
           grid-column: 2; }
 
-.calendar-28 .cell:nth-child(29),
-.calendar-28 .cell:nth-child(30),
-.calendar-28 .cell:nth-child(31) {
+.calendar-28 div:nth-child(29),
+.calendar-28 div:nth-child(30),
+.calendar-28 div:nth-child(31) {
   display: none; }
 
-.calendar-29 .cell:nth-child(30),
-.calendar-29 .cell:nth-child(31) {
+.calendar-29 div:nth-child(30),
+.calendar-29 div:nth-child(31) {
+  display: none; }
+
+.calendar-30 div:nth-child(31) {
   display: none; }
 
 /*# sourceMappingURL=main.css.map */

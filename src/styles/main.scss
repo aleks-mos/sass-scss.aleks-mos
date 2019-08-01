@@ -35,17 +35,24 @@ body {
     }
   }
 }
+
 .calendar-28 {
-  .cell:nth-child(29),
-  .cell:nth-child(30),
-  .cell:nth-child(31) {
-    display: none;
+  div:nth-child(29),
+  div:nth-child(30),
+  div:nth-child(31) {
+  display: none;
+  }
+}
+.calendar-29 {
+  div:nth-child(30),
+  div:nth-child(31) {
+  display: none;
   }
 }
 
-.calendar-29 {
-  .cell:nth-child(30),
-  .cell:nth-child(31) {
-    display: none;
+.calendar-30 {
+  div:nth-child(31) {
+  display: none;
   }
 }
+
