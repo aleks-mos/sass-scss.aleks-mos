@@ -53,11 +53,11 @@ body {
   .calendar-sun div:first-child {
     grid-column-start: 7; }
   .calendar-28 div:nth-child(29),
-  .calendar-28 div:nth-child(30),
-  .calendar-28 div:nth-child(31) {
+  .calendar div:nth-child(30),
+  .calendar div:nth-child(31) {
     display: none; }
   .calendar-29 div:nth-child(30),
-  .calendar-29 div:nth-child(31) {
+  .calendar div:nth-child(31) {
     display: none; }
   .calendar-30 div:nth-child(31) {
     display: none; }
