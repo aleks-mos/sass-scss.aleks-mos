@@ -9,4 +9,6 @@
 
 **Result**
 
-- [UPDATE DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+- [DATE DEMO LINK](https://aleks-mos.github.io/sass-scss.aleks-mos/)
+
+
